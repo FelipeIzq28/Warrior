@@ -1,5 +1,69 @@
 [
 	{
+		"file": "P:\\Unreal Projects\\Warrior\\Source\\Warrior\\Private\\Characters\\WarriorBaseCharacter.cpp",
+		"arguments": [
+			"D:\\Visual Studio\\Visual Studio\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@P:\\Unreal Projects\\Warrior\\.vscode\\compileCommands_Default\\Warrior.1.rsp"
+		],
+		"directory": "D:\\Unreal Engines\\UE 5.4.4\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "P:\\Unreal Projects\\Warrior\\Source\\Warrior\\Private\\Characters\\WarriorHeroCharacter.cpp",
+		"arguments": [
+			"D:\\Visual Studio\\Visual Studio\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@P:\\Unreal Projects\\Warrior\\.vscode\\compileCommands_Default\\Warrior.1.rsp"
+		],
+		"directory": "D:\\Unreal Engines\\UE 5.4.4\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "P:\\Unreal Projects\\Warrior\\Source\\Warrior\\Private\\Controllers\\WarriorHeroController.cpp",
+		"arguments": [
+			"D:\\Visual Studio\\Visual Studio\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@P:\\Unreal Projects\\Warrior\\.vscode\\compileCommands_Default\\Warrior.1.rsp"
+		],
+		"directory": "D:\\Unreal Engines\\UE 5.4.4\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "P:\\Unreal Projects\\Warrior\\Source\\Warrior\\Private\\GameModes\\WarriorBaseGameMode.cpp",
+		"arguments": [
+			"D:\\Visual Studio\\Visual Studio\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@P:\\Unreal Projects\\Warrior\\.vscode\\compileCommands_Default\\Warrior.1.rsp"
+		],
+		"directory": "D:\\Unreal Engines\\UE 5.4.4\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "P:\\Unreal Projects\\Warrior\\Source\\Warrior\\Public\\Characters\\WarriorBaseCharacter.h",
+		"arguments": [
+			"D:\\Visual Studio\\Visual Studio\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@P:\\Unreal Projects\\Warrior\\.vscode\\compileCommands_Default\\Warrior.1.rsp"
+		],
+		"directory": "D:\\Unreal Engines\\UE 5.4.4\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "P:\\Unreal Projects\\Warrior\\Source\\Warrior\\Public\\Characters\\WarriorHeroCharacter.h",
+		"arguments": [
+			"D:\\Visual Studio\\Visual Studio\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@P:\\Unreal Projects\\Warrior\\.vscode\\compileCommands_Default\\Warrior.1.rsp"
+		],
+		"directory": "D:\\Unreal Engines\\UE 5.4.4\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "P:\\Unreal Projects\\Warrior\\Source\\Warrior\\Public\\Controllers\\WarriorHeroController.h",
+		"arguments": [
+			"D:\\Visual Studio\\Visual Studio\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@P:\\Unreal Projects\\Warrior\\.vscode\\compileCommands_Default\\Warrior.1.rsp"
+		],
+		"directory": "D:\\Unreal Engines\\UE 5.4.4\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "P:\\Unreal Projects\\Warrior\\Source\\Warrior\\Public\\GameModes\\WarriorBaseGameMode.h",
+		"arguments": [
+			"D:\\Visual Studio\\Visual Studio\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@P:\\Unreal Projects\\Warrior\\.vscode\\compileCommands_Default\\Warrior.1.rsp"
+		],
+		"directory": "D:\\Unreal Engines\\UE 5.4.4\\UE_5.4\\Engine\\Source"
+	},
+	{
 		"file": "P:\\Unreal Projects\\Warrior\\Source\\Warrior\\Warrior.Build.cs",
 		"arguments": [
 			"D:\\Visual Studio\\Visual Studio\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",

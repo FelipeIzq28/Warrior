@@ -5,7 +5,6 @@ using System.Collections.Generic;
 
 public class WarriorTarget : TargetRules
 {
-
 	public WarriorTarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Game;
