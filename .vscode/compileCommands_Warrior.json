@@ -64,6 +64,14 @@
 		"directory": "D:\\Unreal Engines\\UE 5.4.4\\UE_5.4\\Engine\\Source"
 	},
 	{
+		"file": "P:\\Unreal Projects\\Warrior\\Source\\Warrior\\Public\\WarriorDebugHelper.h",
+		"arguments": [
+			"D:\\Visual Studio\\Visual Studio\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@P:\\Unreal Projects\\Warrior\\.vscode\\compileCommands_Warrior\\Warrior.1.rsp"
+		],
+		"directory": "D:\\Unreal Engines\\UE 5.4.4\\UE_5.4\\Engine\\Source"
+	},
+	{
 		"file": "P:\\Unreal Projects\\Warrior\\Source\\Warrior\\Warrior.Build.cs",
 		"arguments": [
 			"D:\\Visual Studio\\Visual Studio\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
