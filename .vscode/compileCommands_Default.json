@@ -104,6 +104,22 @@
 		"directory": "D:\\Unreal Engines\\UE 5.4.4\\UE_5.4\\Engine\\Source"
 	},
 	{
+		"file": "P:\\Unreal Projects\\Warrior\\Source\\Warrior\\Private\\Items\\Weapons\\WarriorHeroWeapon.cpp",
+		"arguments": [
+			"D:\\Visual Studio\\Visual Studio\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@P:\\Unreal Projects\\Warrior\\.vscode\\compileCommands_Default\\Warrior.1.rsp"
+		],
+		"directory": "D:\\Unreal Engines\\UE 5.4.4\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "P:\\Unreal Projects\\Warrior\\Source\\Warrior\\Private\\Items\\Weapons\\WarriorWeaponBase.cpp",
+		"arguments": [
+			"D:\\Visual Studio\\Visual Studio\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@P:\\Unreal Projects\\Warrior\\.vscode\\compileCommands_Default\\Warrior.1.rsp"
+		],
+		"directory": "D:\\Unreal Engines\\UE 5.4.4\\UE_5.4\\Engine\\Source"
+	},
+	{
 		"file": "P:\\Unreal Projects\\Warrior\\Source\\Warrior\\Private\\WarriorGameplayTags.cpp",
 		"arguments": [
 			"D:\\Visual Studio\\Visual Studio\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
@@ -209,6 +225,22 @@
 	},
 	{
 		"file": "P:\\Unreal Projects\\Warrior\\Source\\Warrior\\Public\\GameModes\\WarriorBaseGameMode.h",
+		"arguments": [
+			"D:\\Visual Studio\\Visual Studio\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@P:\\Unreal Projects\\Warrior\\.vscode\\compileCommands_Default\\Warrior.1.rsp"
+		],
+		"directory": "D:\\Unreal Engines\\UE 5.4.4\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "P:\\Unreal Projects\\Warrior\\Source\\Warrior\\Public\\Items\\Weapons\\WarriorHeroWeapon.h",
+		"arguments": [
+			"D:\\Visual Studio\\Visual Studio\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@P:\\Unreal Projects\\Warrior\\.vscode\\compileCommands_Default\\Warrior.1.rsp"
+		],
+		"directory": "D:\\Unreal Engines\\UE 5.4.4\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "P:\\Unreal Projects\\Warrior\\Source\\Warrior\\Public\\Items\\Weapons\\WarriorWeaponBase.h",
 		"arguments": [
 			"D:\\Visual Studio\\Visual Studio\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
 			"@P:\\Unreal Projects\\Warrior\\.vscode\\compileCommands_Default\\Warrior.1.rsp"
