@@ -2,6 +2,8 @@
 
 
 #include "Characters/WarriorBaseCharacter.h"
+#include "AbilitySystem/WariorAbilitySystemComponent.h"
+#include "AbilitySystem/WarriorAttributeSet.h"
 
 // Sets default values
 AWarriorBaseCharacter::AWarriorBaseCharacter()
@@ -12,5 +14,21 @@ AWarriorBaseCharacter::AWarriorBaseCharacter()
 
 	GetMesh()->bReceivesDecals = false;
 
+	WarriorAbilitySystemComponent = CreateDefaultSubobject<UWariorAbilitySystemComponent>(TEXT("WarriorAbilitySystemComponent"));
+
+	WarriorAttributeSet = CreateDefaultSubobject<UWarriorAttributeSet>(TEXT("WarriorAttributeSet"));
+
 }
 
+UAbilitySystemComponent *AWarriorBaseCharacter::GetAbilitySystemComponent() const
+{
+    return GetWarriorAbilitySystyemComponent();
+}
+void AWarriorBaseCharacter::PossessedBy(AController *NewController)
+{
+	Super::PossessedBy(NewController);
+	if(WarriorAbilitySystemComponent)
+	{
+		WarriorAbilitySystemComponent->InitAbilityActorInfo(this, this);
+	}
+}
