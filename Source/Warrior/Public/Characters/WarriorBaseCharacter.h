@@ -9,6 +9,7 @@
 
 class UWariorAbilitySystemComponent;
 class UWarriorAttributeSet;
+class UDataAsset_StartUpDataBase;
 
 UCLASS()
 class WARRIOR_API AWarriorBaseCharacter : public ACharacter
@@ -33,6 +34,9 @@ protected:
 
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "AttributeSet")
 	UWarriorAttributeSet* WarriorAttributeSet;
+
+	UPROPERTY(EditDefaultsOnly, BlueprintReadOnly, Category = "CharacterData")
+	TSoftObjectPtr<UDataAsset_StartUpDataBase> CharacterStartUpData;
 
 public:
 	FORCEINLINE UWariorAbilitySystemComponent *GetWarriorAbilitySystyemComponent() const { return WarriorAbilitySystemComponent; }
