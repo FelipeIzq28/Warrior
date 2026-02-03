@@ -72,7 +72,31 @@
 		"directory": "D:\\Unreal Engines\\UE 5.4.4\\UE_5.4\\Engine\\Source"
 	},
 	{
+		"file": "P:\\Unreal Projects\\Warrior\\Source\\Warrior\\Private\\Components\\Combat\\HeroCombatComponent.cpp",
+		"arguments": [
+			"D:\\Visual Studio\\Visual Studio\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@P:\\Unreal Projects\\Warrior\\.vscode\\compileCommands_Warrior\\Warrior.1.rsp"
+		],
+		"directory": "D:\\Unreal Engines\\UE 5.4.4\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "P:\\Unreal Projects\\Warrior\\Source\\Warrior\\Private\\Components\\Combat\\PawnCombatComponent.cpp",
+		"arguments": [
+			"D:\\Visual Studio\\Visual Studio\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@P:\\Unreal Projects\\Warrior\\.vscode\\compileCommands_Warrior\\Warrior.1.rsp"
+		],
+		"directory": "D:\\Unreal Engines\\UE 5.4.4\\UE_5.4\\Engine\\Source"
+	},
+	{
 		"file": "P:\\Unreal Projects\\Warrior\\Source\\Warrior\\Private\\Components\\Input\\WarriorInputComponent.cpp",
+		"arguments": [
+			"D:\\Visual Studio\\Visual Studio\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@P:\\Unreal Projects\\Warrior\\.vscode\\compileCommands_Warrior\\Warrior.1.rsp"
+		],
+		"directory": "D:\\Unreal Engines\\UE 5.4.4\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "P:\\Unreal Projects\\Warrior\\Source\\Warrior\\Private\\Components\\PawnExtensionComponentBase.cpp",
 		"arguments": [
 			"D:\\Visual Studio\\Visual Studio\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
 			"@P:\\Unreal Projects\\Warrior\\.vscode\\compileCommands_Warrior\\Warrior.1.rsp"
@@ -216,7 +240,31 @@
 		"directory": "D:\\Unreal Engines\\UE 5.4.4\\UE_5.4\\Engine\\Source"
 	},
 	{
+		"file": "P:\\Unreal Projects\\Warrior\\Source\\Warrior\\Public\\Components\\Combat\\HeroCombatComponent.h",
+		"arguments": [
+			"D:\\Visual Studio\\Visual Studio\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@P:\\Unreal Projects\\Warrior\\.vscode\\compileCommands_Warrior\\Warrior.1.rsp"
+		],
+		"directory": "D:\\Unreal Engines\\UE 5.4.4\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "P:\\Unreal Projects\\Warrior\\Source\\Warrior\\Public\\Components\\Combat\\PawnCombatComponent.h",
+		"arguments": [
+			"D:\\Visual Studio\\Visual Studio\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@P:\\Unreal Projects\\Warrior\\.vscode\\compileCommands_Warrior\\Warrior.1.rsp"
+		],
+		"directory": "D:\\Unreal Engines\\UE 5.4.4\\UE_5.4\\Engine\\Source"
+	},
+	{
 		"file": "P:\\Unreal Projects\\Warrior\\Source\\Warrior\\Public\\Components\\Input\\WarriorInputComponent.h",
+		"arguments": [
+			"D:\\Visual Studio\\Visual Studio\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@P:\\Unreal Projects\\Warrior\\.vscode\\compileCommands_Warrior\\Warrior.1.rsp"
+		],
+		"directory": "D:\\Unreal Engines\\UE 5.4.4\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "P:\\Unreal Projects\\Warrior\\Source\\Warrior\\Public\\Components\\PawnExtensionComponentBase.h",
 		"arguments": [
 			"D:\\Visual Studio\\Visual Studio\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
 			"@P:\\Unreal Projects\\Warrior\\.vscode\\compileCommands_Warrior\\Warrior.1.rsp"
