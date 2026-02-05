@@ -8,6 +8,14 @@
 		"directory": "D:\\Unreal Engines\\UE 5.4.4\\UE_5.4\\Engine\\Source"
 	},
 	{
+		"file": "P:\\Unreal Projects\\Warrior\\Source\\Warrior\\Private\\AbilitySystem\\Abilities\\WarriorHeroGameplayAbility.cpp",
+		"arguments": [
+			"D:\\Visual Studio\\Visual Studio\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@P:\\Unreal Projects\\Warrior\\.vscode\\compileCommands_Warrior\\Warrior.1.rsp"
+		],
+		"directory": "D:\\Unreal Engines\\UE 5.4.4\\UE_5.4\\Engine\\Source"
+	},
+	{
 		"file": "P:\\Unreal Projects\\Warrior\\Source\\Warrior\\Private\\AbilitySystem\\WariorAbilitySystemComponent.cpp",
 		"arguments": [
 			"D:\\Visual Studio\\Visual Studio\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
@@ -169,6 +177,14 @@
 	},
 	{
 		"file": "P:\\Unreal Projects\\Warrior\\Source\\Warrior\\Public\\AbilitySystem\\Abilities\\WarriorGameplayAbility.h",
+		"arguments": [
+			"D:\\Visual Studio\\Visual Studio\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@P:\\Unreal Projects\\Warrior\\.vscode\\compileCommands_Warrior\\Warrior.1.rsp"
+		],
+		"directory": "D:\\Unreal Engines\\UE 5.4.4\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "P:\\Unreal Projects\\Warrior\\Source\\Warrior\\Public\\AbilitySystem\\Abilities\\WarriorHeroGameplayAbility.h",
 		"arguments": [
 			"D:\\Visual Studio\\Visual Studio\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
 			"@P:\\Unreal Projects\\Warrior\\.vscode\\compileCommands_Warrior\\Warrior.1.rsp"
